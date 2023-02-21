@@ -1,0 +1,34 @@
+X X X
+R A J
+Y Y Y
+
+X X J
+X A X
+R X X
+
+X J X
+X A X
+X R X
+
+J X X
+X A X
+X X R
+
+X X X
+J A R
+X X X
+
+X X R
+X A X
+J X X
+
+X R X
+X A X
+X J X
+
+R X X
+X A X
+X X J
+
+THESE IS THE TEST SERIES.
+TRY NEXT TIME BY CONCATING STRINGS. 
